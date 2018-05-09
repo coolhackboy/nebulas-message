@@ -2,7 +2,8 @@
  * 星云消息 智能合约
  * Author: GeoffZhu
  * Date: 2018/05/06
- * Test:
+ * Test: n1m76MKMy36jRaeF8VRbQimE2GA2qNJkFBH
+ * Main: n1mVyXb1DswgimoRUJsLER4JDDHKiuvgJgn
  */
 
 'use strict';
